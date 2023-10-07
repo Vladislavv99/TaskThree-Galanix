@@ -16,6 +16,7 @@ body {
 
 .search-btn, 
 .reset-btn {
+    cursor: pointer;
     border: none;
     outline: none;
     padding: 0.4em 1em;
